@@ -11,10 +11,10 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/bet/page": [
+    "/finish/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/bet/page.js"
+      "static/chunks/app/finish/page.js"
     ]
   }
 }
