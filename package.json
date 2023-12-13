@@ -11,8 +11,7 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4",
-    "@facephi/landing-sdk": "0.3.2"
+    "next": "14.0.4"
   },
   "devDependencies": {
     "typescript": "^5",
