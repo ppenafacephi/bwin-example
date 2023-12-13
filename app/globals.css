@@ -53,6 +53,13 @@ h1 {
   width: 100%;
 }
 
+h2 {
+  font-size: 40px;
+  text-align: center;
+  padding: 20px 0;
+  width: 100%;
+}
+
 button {
   background-color: #FFCB02;
   height: 50px;
